@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bares</string>
+    <string name="NoDescripcion">Pas de description disponible pour ce bar</string>
+    <string name="action_settings">\"Paramètres\"</string>
+    <string name="actionsearch">Recherche</string>
+    <string name="favorite">Favori</string>
+    <string name="title_activity_bar_description">Description</string>
+    <string name="title_activity_map_description_fragmen">Carte</string>
+    <string name="favorites">Favorits</string>
+    <string name="not_marker">Nous n\'avons pas la direction T_T</string>
+    <string name="no_red">Active les donnèes ou le WIFI pour continué</string>
+</resources>

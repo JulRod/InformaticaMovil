@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bares</string>
+    <string name="NoDescripcion">No disponemos de descripcion para este Bar</string>
+    <string name="actionsearch"> Buscar </string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_bar_description">BarDescription</string>
+    <string name="title_activity_map_description_fragmen">Map</string>
+    <string name="google_maps_key">AIzaSyA8aaegGVLjXfeNdfUQBGdFG4xBhwjp0Qg</string>
+    <string name="favorite">Favorito</string>
+    <string name="favorites">Favoritos</string>
+    <string name="not_marker">No disponemos de la ubicación T_T</string>
+    <string name="no_red">Activa los datos o el wifi para seguir</string>
+</resources>
